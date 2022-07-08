@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Crymzy, I'm from Ukraine :-)
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++ at my university
